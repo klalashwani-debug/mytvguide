@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="TemplateMo">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+
+    <title>mytvguide
+</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/css/templatemo-finance-business.css">
+
+  </head>
+
+  <body>
+
+    <header class="">
+      <nav class="navbar navbar-expand-lg">
+        <div class="container">
+          <a class="navbar-brand" href="index.html"><h2>mytvguide
+</h2></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="index.html">Home
+                  <span class="sr-only">(current)</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about.html">About Us</a>
+              </li>  
+              <li class="nav-item">
+                <a class="nav-link" href="services.html">Our Services</a>
+              </li>                          
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact Us</a>
+              </li>
+             
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+ 
+    <div class="main-banner header-text" id="top">
+        <div class="Modern-Slider">
+          <div class="item item-1">
+            <div class="img-fill">
+                <div class="text-content">                 
+                  <h4>Professional TV Installation & Mounting</h4>
+                  <p>Get your TV mounted safely and neatly by a certified technician near you — on time, every time. Clean cable concealment, perfect viewing angles, and zero hassle.</p>
+                  <a href="contact.html" class="filled-button">contact us</a>
+                </div>
+            </div>
+          </div>
+        </div>
+    </div>
+
+    <div class="more-info about-info">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="more-info-content">
+              <div class="row">
+                <div class="col-md-6 align-self-center">
+                  <div class="right-content">                    
+                   <h2>Best TV Mounting &  <em>Installation Services</em></h2>
+
+                   <p>A properly wall-mounted TV looks far better than one sitting on a stand. With cables hidden behind the wall, your setup looks clean and modern. We handle the full installation — from selecting the right mount and angle to securing the TV safely — so you can sit back and enjoy.</p>
+                    <p>Our service stands out for several reasons. Our technicians are highly trained and experienced with every type of TV and mount. We use premium hardware to ensure precision and durability. Safety comes first: your TV is securely anchored to prevent accidents or damage. We also tailor each installation to your room layout and viewing preferences.</p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="left-image">
+                    <img src="assets/images/about-image.jpg" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="services">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Our <em>Services</em></h2>
+              <span>We provide premium TV mounting and smart setup solutions that make your viewing experience smooth, safe, and hassle-free.</span>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <img src="assets/images/about-1.png" alt="">
+              <div class="down-content">
+                <h4>Smart TV Setup</h4>
+                <p>Get your Smart TV professionally installed and configured for maximum performance.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <img src="assets/images/about-2.png" alt="">
+              <div class="down-content">
+                <h4>IPTV Setup</h4>
+                <p>Enjoy seamless IPTV service setup with all your favorite channels at your fingertips.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <img src="assets/images/about-3.png" alt="">
+              <div class="down-content">
+                <h4>Home Theater Installation</h4>
+                <p>Transform your living room into a cinema with our expert home theater installation..</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <img src="assets/images/about-4.png" alt="">
+              <div class="down-content">
+                <h4>Custom Configuration</h4>
+                <p>We fine-tune your devices for the best performance and personalized entertainment.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <img src="assets/images/about-5.png" alt="">
+              <div class="down-content">
+                <h4>24/7 Support</h4>
+                <p>Our team is always available to troubleshoot and assist whenever you need help.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <img src="assets/images/about-6.png" alt="">
+              <div class="down-content">
+                <h4>Secure Setup</h4>
+                <p>All installations are done with safety and security as our top priority.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fun-facts">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="align-self-center">              
+              <h2>TV Mounting & <em>Installation</em></h2>
+              <p>Our team of certified technicians comes equipped with the latest tools and techniques to deliver a seamless, efficient installation — typically completed within an hour. Book your TV mounting service today and enjoy the perfect viewing experience.</p>
+              <a href="" class="filled-button">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="more-info">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="more-info-content">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="left-image">
+                    <img src="assets/images/more-info.jpg" alt="">
+                  </div>
+                </div>
+                <div class="col-md-6 align-self-center">
+                  <div class="right-content">                   
+                    <h2>Best TV Mounting &  <em>Installation Services</em></h2>
+                    <p>Our TV wall mount installation service stands out for several reasons. Our team is highly trained and experienced across every TV and mount type. We use quality hardware to ensure precision and care in every job. Safety is our priority — your TV is securely anchored to prevent accidents or damage. We also tailor each installation to your specific room layout and preferences.</p>
+                    <p>We can send a technician to your door at your convenience. In most cases, we resolve your needs the same day. We offer affordable, high-quality installations backed by insurance coverage and an industry-leading workmanship guarantee. We are top-rated for TV mounting, soundbar installation, and in-wall cable concealment. As our reviews show, we aim to deliver nothing short of an amazing experience. Please call or email us with any questions.</p>
+                    <a href="about.html" class="filled-button">Read More</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 footer-item">
+            <h4>TV Mounting
+</h4>
+            <p>Our team is highly trained and experienced across all types of TV installations. We use quality mounts and equipment to ensure precision and care in every job. Safety is our priority — your TV is securely mounted to prevent accidents or damage. We also offer personalized installation solutions tailored to your specific requirements and room layout.</p>
+
+          </div>
+          <div class="col-md-3 footer-item">
+            <h4>Useful Links</h4>
+            <ul class="menu-list">
+               <li><a href="terms-and-conditions.html">Terms & Conditions</a></li>
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </div>
+          <div class="col-md-3 footer-item last-item">
+            <h4>Contact Us</h4>
+            <div class="contact-form">
+              <form id="contact footer-contact" action="" method="post">
+                <div class="row">
+                  <div class="col-lg-12 col-md-12 col-sm-12">
+                    <fieldset>
+                      <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12 col-md-12 col-sm-12">
+                    <fieldset>
+                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="E-Mail Address" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required=""></textarea>
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <button type="submit" id="form-submit" class="filled-button">Send Message</button>
+                    </fieldset>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+    <div class="sub-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <p>Copyright &copy; 2026 | mytvguide | All Rights Reserved
+
+            
+           </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+</html>
